@@ -1,4 +1,4 @@
-//EXP2_Salary
+// Experiment 2: Staff Payroll Management & Sorting
 #include<iostream>
 #include<string>
 
